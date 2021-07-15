@@ -7,6 +7,11 @@ Open Source Bot 👨🏻‍💻
 
 Easy To Deploy 🤗
 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BXBots/YouTubeSongbot)
+
+
+
 ## 💡 Deploy This Bot To Heroku ❓️
 ```
 1) Fork The Repository,
